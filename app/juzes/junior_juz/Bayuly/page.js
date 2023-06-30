@@ -15,7 +15,7 @@ const TaipaPage = () => {
 					src={ru.img}
 					className="w-[100px] m-auto drop-shadow-md"
 				></img>
-				<h2 className	="text-xl text-center">{ru.name}</h2>
+				<h2 className="text-xl text-center">{ru.name}</h2>
 			</li>
 		);
 	});
