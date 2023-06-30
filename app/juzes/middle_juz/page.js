@@ -2,13 +2,13 @@ import data from "/data/data.json";
 import Link from "next/link";
 const MiddleJuzPage = () => {
 	const taipalar = data["orta_juz"]["taipalar"].map((taipa) => (
-		<Link
-			href={`/juzes/middle_juz/${taipa.taipa}`}
-			key={taipa.taipa}
-			className="hover:text-gray-600 duration-150"
-		>
-			{taipa.taipa}
-		</Link>
+	  <Link
+		href={`/juzes/middle_juz/${taipa.taipa}`}
+		key={taipa.taipa}
+		className="hover:text-gray-600 duration-150"
+	  >
+		{taipa.taipa}
+	  </Link>
 	));
 	return (
 		<div className="flex flex-col">
