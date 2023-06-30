@@ -1,10 +1,17 @@
 const rus = [
-	{ name: "Shomekey", img: "/baiuly/shomekey.png" },
-	{ name: "Karakesek", img: "/baiuly/каракесек.png" },
-	{ name: "Karasakal", img: "/baiuly/карасакал.png" },
-	{ name: "Kete", img: "/baiuly/кете.png" },
-	{ name: "Tortkara", img: "/baiuly/торткара.png" },
-	{ name: "Shekti", img: "/baiuly/шекты.png" },
+	{ name: "Sherkesh", img: "/baiuly/shomekey.png" },
+	{ name: "Adai", img: "/baiuly/каракесек.png" },
+	{ name: "Alasha", img: "/baiuly/карасакал.png" },
+	{ name: "Altyn", img: "/baiuly/кете.png" },
+	{ name: "Baibakty", img: "/baiuly/торткара.png" },
+	{ name: "Bersh", img: "/baiuly/шекты.png" },
+	{ name: "Esentemir", img: "/baiuly/шекты.png" },
+	{ name: "Zhappas", img: "/baiuly/шекты.png" },
+	{ name: "Kyzyl-Kurt", img: "/baiuly/шекты.png" },
+	{ name: "Maskar", img: "/baiuly/шекты.png" },
+	{ name: "Taz", img: "/baiuly/шекты.png" },
+	{ name: "Tana", img: "/baiuly/шекты.png" },
+	{ name: "Ysyk", img: "/baiuly/шекты.png" },
 ];
 
 const TaipaPage = () => {
